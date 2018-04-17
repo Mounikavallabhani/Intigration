@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "214172471498",
+    "firebase_url": "https://integration-bd7fa.firebaseio.com",
+    "project_id": "integration-bd7fa",
+    "storage_bucket": "integration-bd7fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214172471498:android:406e2801ddc69ed5",
+        "android_client_info": {
+          "package_name": "com.example.welcome.intigration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214172471498-ecqvlg3oq1eo0057394d3s4drjgdglrm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "214172471498-foeqrlmmbvmjmh86utb6qh10pukhs65b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZeuUK5pbxEzlpRgfVIdzbe4OOFNN_tW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214172471498-ecqvlg3oq1eo0057394d3s4drjgdglrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
